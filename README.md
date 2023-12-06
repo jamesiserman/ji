@@ -1,0 +1,2 @@
+# ji
+splash screen
